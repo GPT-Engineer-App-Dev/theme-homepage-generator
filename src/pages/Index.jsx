@@ -1,4 +1,4 @@
-import { Box, Container, Flex, Heading, Text, VStack, Link, Image } from "@chakra-ui/react";
+import { Box, Container, Flex, Heading, Text, VStack, Link } from "@chakra-ui/react";
 import { Link as RouterLink } from "react-router-dom";
 
 const Index = () => {
